@@ -11,7 +11,7 @@
 <a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
 </p>
 
-[詳細資訊](ME) [RESUME](RESUME)
+[詳細資訊](https://github.com/KageRyo/KageRyo/blob/main/ME.md) [RESUME](https://github.com/KageRyo/KageRyo/blob/main/RESUME.pdf)
 
 ## Mail K6  
 + kageryo@coderyo.com
