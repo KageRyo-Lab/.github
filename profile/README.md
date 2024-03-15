@@ -1,7 +1,8 @@
 # KageRyo Developer 👨‍💻
 <h3 align="left">A Student && Developer from Taiwan</h3>  
-<h4 align="left"><a href="https://github.com/KageRyo" target="blank">KageRyo's GitHub Account</a></h4>
-這裡是 KageRyo-Lab，用以存放實驗性質與練習程式。
+Here is the GitHub account for KageRyo's experimental and practice programs.
+  
+<a href="https://github.com/KageRyo" target="blank">Click here to KageRyo's main GitHub Account!</a>
   
 ## Link K6  
 <p align="left">
@@ -11,7 +12,7 @@
 <a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
 </p>
 
-[詳細資訊](https://github.com/KageRyo/KageRyo/blob/main/ME.md) [RESUME](https://github.com/KageRyo/KageRyo/blob/main/RESUME.pdf)
+[INFORMATION](https://github.com/KageRyo/KageRyo/blob/main/ME.md) [RESUME](https://github.com/KageRyo/KageRyo/blob/main/RESUME.pdf)
 
 ## Mail K6  
 + kageryo@coderyo.com
