@@ -12,7 +12,7 @@ Here is the GitHub account for KageRyo's experimental and practice programs.
 <a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
 </p>
 
-[INFORMATION](https://github.com/KageRyo/KageRyo/blob/main/ME.md) [RESUME](https://github.com/KageRyo/KageRyo/blob/main/RESUME.pdf)
+[INFORMATION](https://github.com/KageRyo/KageRyo/blob/main/ME.md) [CV](https://github.com/KageRyo/KageRyo/blob/main/CV.pdf)
 
 ## Mail K6  
 + kageryo@coderyo.com
