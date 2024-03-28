@@ -3,6 +3,8 @@
 Here is the GitHub account for KageRyo's experimental and practice programs.
   
 <a href="https://github.com/KageRyo" target="blank">Click here to KageRyo's main GitHub Account!</a>
+- [Autobiography](https://github.com/KageRyo/KageRyo/blob/main/Autobiography.pdf)  
+
   
 ## Link K6  
 <p align="left">
